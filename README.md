@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning css js and html to moke my own wordle
 - 💞️ I’m looking to collaborate on anything fun C:
-- 📫 How to reach me cutebunyplz@gmail.com prob
 
 <!---
 lemonthehedgie/lemonthehedgie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
